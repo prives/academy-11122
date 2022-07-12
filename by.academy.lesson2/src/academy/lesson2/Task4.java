@@ -23,6 +23,8 @@ public class Task4 {
 		for(;;) {
 			
 			System.out.println("Введите количество игроков");
+			
+			
 			n = scan.nextInt();
 			
 			if (n == 0) {
