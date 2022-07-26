@@ -1,7 +1,7 @@
 package trying;
 
 
-import by.academy.deal.Product;
+import trying.deal.Product;
 
 public class Cheese    extends Product { {
 

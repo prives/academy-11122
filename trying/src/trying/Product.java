@@ -33,7 +33,7 @@ public class Product {
 
 	public void setIsTax(int isTax) {
 		this.isTax = isTax;
-	}
+	 }
 
 	public int getIsTax() {
 		return isTax;
