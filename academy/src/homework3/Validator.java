@@ -1,5 +1,7 @@
 package homework3;
 
-public class Validator {
-
+public  interface Validator {
+	
+	  public boolean validate (String number);
+	  
 }
