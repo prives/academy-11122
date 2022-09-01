@@ -46,6 +46,7 @@ public class Task1 {
         BufferedReader br = new BufferedReader(new FileReader(newFile));
         for (String line; (line = br.readLine()) != null; ) {
             System.out.println(line);
+            
         }
     }
 }
