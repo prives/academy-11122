@@ -1,5 +1,6 @@
 package dial;
 
-public class Validator {
-
+public interface Validator {
+	
+	boolean isValid(String string);
 }
